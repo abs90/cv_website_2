@@ -1,2 +1,4 @@
-# cv_website_2
- Part 2 of MANM468
+# cv_website
+Digital Project Development MANM468
+
+Part 2
